@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://parv.vercel.app/](https://parv.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-delta-blond-35.vercel.app/](https://portfolio-delta-blond-35.vercel.app/)
 
 - 📫 How to reach me **choudharyparv4@gmail.com**
 
